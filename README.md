@@ -1,6 +1,6 @@
 # Data Analytics Projects (Python)
 
-## A collection of data analysis and visualization projects designed to uncover insights from diverse datasets. These projects include analyses on taxi trends in New York and Peru, showcasing the power of data-driven storytelling.
+## A collection of data analytics and visualization projects designed to uncover insights from diverse datasets. These projects include analyses on taxi trends in New York and Peru, showcasing the power of data-driven storytelling.
 
 ### 📌 Project Objectives:
 - Load and explore the taxi dataset
