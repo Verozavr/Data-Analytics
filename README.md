@@ -6,10 +6,10 @@
 - Load and explore the taxi dataset
 - Clean and preprocess the data
 - Perform descriptive statistics and data transformations
-- Analyze key insights related to taxi trips (e.g., trip duration, fare amount, passenger count)
+- Analyze key insights related to taxi trips (e.g., trip destinations, passenger count, holidays vs workdays)
 - Visualize trends using pandas and other visualization libraries
 
-### 🛠️ Technologies Used:
-- Python
-- Pandas
-- Matplotlib / Seaborn (for visualization)
+### 🛠️ Libraries Used:
+
+- Pandas for calculation and statistical analysis
+- Matplotlib & Seaborn for visualization
