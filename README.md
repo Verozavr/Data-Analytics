@@ -1,4 +1,4 @@
-# Data Analytics Projects (Puthon)
+# Data Analytics Projects (Python)
 
 ## A collection of data analysis and visualization projects designed to uncover insights from diverse datasets. These projects include analyses on taxi trends in New York and Peru, showcasing the power of data-driven storytelling.
 
